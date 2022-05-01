@@ -1,2 +1,1 @@
 # letsgrowmore.github.io
-Internship
